@@ -49,7 +49,7 @@ def purchase(cookie: str, itemID: str) -> object:
         exit()
 
 if __name__ == "__main__":
-    #input(f"\x1b[38;5;196m*Note* This bot will purchase only items that are cost 0 robux. This restriction was made for your safety!!! Press \"enter\" to continue...")
+    input(f"\x1b[38;5;196m*Note* The creator is not responsible if you accidentally buy a paid item!!! Press \"enter\" to continue...")
     cookie, itemID = check_for_txts()
     req, assetName = purchase(cookie, itemID)
     res = req.json()
