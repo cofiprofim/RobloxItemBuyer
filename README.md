@@ -12,4 +12,4 @@ This is a roblox item buyer, i made this code because i didnt find a nice templa
 2) How to get id of the item which you want? First open [roblox](https://www.roblox.com/home) and get to the link of the item that you want to get, after, on the link of this item you can see a digits, that is an id of the item. For example "48474313" is an id of this link "https://www.roblox.com/catalog/48474313/Red-Roblox-Cap"
 
 ## IMPORTANT:
- - **The creator is not responsible if you accidentally buy a paid item!!!**
+ - **The creator is not responsible if you accidentally bought a paid item!!!**
